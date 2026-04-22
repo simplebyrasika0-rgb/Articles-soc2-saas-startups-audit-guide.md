@@ -1,4 +1,4 @@
-# Articles-soc2-saas-startups-audit-guide.md
+# Articles- SOC 2-saas-startups-audit-guide.md
  SOC 2 for SaaS Startups — What You Actually Need to Collect
 
 ## 📚 Articles & Guides
